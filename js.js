@@ -114,7 +114,7 @@ function notifyMe () {
 		var notification = new Notification ("Все еще работаешь?", {
 			tag : "ache-mail",
 			body : "Пора сделать паузу и отдохнуть",
-			icon : "https://itproger.com/img/notify.png"
+			icon : "1.jpg"
 		});
 	}
 	
